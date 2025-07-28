@@ -1,0 +1,11 @@
+{
+  "host": "play.clickhouse.com",
+  "port": 443,
+  "username": "default",
+  "password": "",
+  "database": "default",
+  "secure": true,
+  "verify": true,
+  "compress": true,
+  "query_limit": 1000
+} 

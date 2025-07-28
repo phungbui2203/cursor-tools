@@ -1,0 +1,11 @@
+{
+  "host": "clickhouse.finan.me",
+  "port": 443,
+  "username": "bi_team",
+  "password": "7Jhb8ULusS9t",
+  "database": "default",
+  "secure": true,
+  "verify": true,
+  "compress": true,
+  "query_limit": 1000
+} 

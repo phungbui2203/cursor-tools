@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "clickhouse": {
+      "command": "python",
+      "args": ["-m", "clickhouse_mcp_server.main"],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\MY PHUNG\\PycharmProjects\\cursor-tools"
+      }
+    }
+  }
+} 
