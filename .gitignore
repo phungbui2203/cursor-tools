@@ -165,3 +165,5 @@ clickhouse-data/
 # Configuration files with sensitive data
 config_local.json
 .env.local 
+
+.vscode/
